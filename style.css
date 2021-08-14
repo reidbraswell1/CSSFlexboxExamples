@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 55vh;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+h5 {
+    text-align: center;
+}
+.item {
+  height: 14%;
+  background-color: aquamarine;
+}
+
+.item-1 {
+  width: 40%;
+  height: 14%;
+  background-color: chartreuse;
+}
+
+.item-2 {
+  width: 50%;
+  height: 14%;
+  background-color: chocolate;
+}
+
+.item-3 {
+  width: 60%;
+  height: 14%;
+  background-color: darkgreen;
+}
+
+.item-4 {
+  width: 20%;
+  height: 14%;
+  align-self: center;
+  background-color: burlywood;
+}
+
+.item-5 {
+  height: 14%;
+  background-color: darkorchid;
+}
