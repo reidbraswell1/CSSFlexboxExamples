@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  height: 300px;
+  justify-content: space-between;
+  align-items: flex-end;
+  border: 1px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+.item {
+  width: 8%;
+  height: 30%;
+  background-color: chartreuse;
+}
+.item-1 {
+  height: 40%;
+  width: 8%;
+  background-color: burlywood;
+}
+.item-2 {
+  height: 50%;
+  width: 8%;
+  background-color: tomato;
+}
+.item-3 {
+  height: 60%;
+  width: 8%;
+  background-color: darkseagreen;
+}
+.item-4 {
+  height: 70%;
+  width: 8%;
+  background-color: dimgray;
+}
+.item-5 {
+  height: 80%;
+  width: 8%;
+  background-color:goldenrod;
+}
